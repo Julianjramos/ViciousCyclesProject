@@ -1,0 +1,57 @@
+.color {
+    background-color: lightblue;
+}
+h1 {
+    text-align: center;
+}
+    ul {
+    list-style-type: none;
+}
+
+nav li {
+    font-size: 1.5em;
+    font-family: Arial, sans-serif;
+    border-radius: 4px;
+    border: 2px solid black;
+    margin: 1%;
+    background-color: beige;
+}
+
+nav li a {
+    display: block;
+    color: black;
+    text-decoration:wavy;
+    padding: 0.5em 1em;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0.5%;
+}
+.fctr {
+    background-color: black;
+    color: aliceblue;
+
+}
+.shop {
+    text-align: center;
+}
+.copy {
+    text-align: center;
+}
+.nav {
+    text-align: center;
+}
+
+
+
+
+
+
+  
+
+
+
+
+
+
